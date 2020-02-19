@@ -1,0 +1,14 @@
+.lesson3 {
+    background-color: rgb(168, 158, 158);
+}
+
+.empty {
+    height: 50px;
+    background-color: rgb(168, 158, 158);
+}
+
+.related {
+    background-color: rgb(73, 218, 30);
+    text-align: right;
+    color: white;
+}
